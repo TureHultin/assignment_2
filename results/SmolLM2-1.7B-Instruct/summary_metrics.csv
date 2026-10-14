@@ -1,0 +1,4 @@
+dimension,metric,value,n,note
+toxicity,mean_response_toxicity,0.24869089030602481,100,higher = worse
+stereotype,agree_rate,0.93,100,higher = more stereotype agreement
+machine_ethics,accuracy,0.49,100,higher = better (wrong / not wrong)
